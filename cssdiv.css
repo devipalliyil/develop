@@ -1,0 +1,26 @@
+.container{
+    color:blue;
+    text-align: center;
+}
+.lastname
+{
+    color: green;
+    text-align: center;
+}
+.password
+{
+color: blueviolet;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+}
+.Gender
+{
+    text-shadow: 10cm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.mysubmit
+{
+  margin-left: 750px;  
+}

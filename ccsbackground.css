@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/png-vector/20200530/ourmid/pngtree-indoor-office-png-image_2215286.jpg");
+    background-repeat: repeat;
+}
+.main{
+    border: black   2px solid;
+    width: 400px;
+    margin-left: 452px; 
+    height: 358px;
+    border-radius: 35px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.container
+{
+    text-align: center;
+}
+.button
+{
+    text-align: center;
+}
